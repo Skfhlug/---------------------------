@@ -3,6 +3,9 @@ Java Team Project
 
 Problem Statement
 
+Students have many classes at school. The flashcard website will help them create there own flashcards. 
+This application will help them save money to do the manual equipments.
+
 Project Technologies/Techniques
 
 - Database
